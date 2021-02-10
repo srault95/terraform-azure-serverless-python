@@ -1,4 +1,4 @@
-## Template Terraform pour le déploiement du service web create-assets Idefix
+## Template Terraform pour le déploiement d'une Azure Function et ses dépendances
 
 ```shell
 export ARM_TENANT_ID="00000000-0000-0000-0000-000000000000"
